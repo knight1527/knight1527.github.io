@@ -288,13 +288,13 @@
       
       <categories>
           
-          <category> 随笔 </category>
-          
           <category> SE </category>
           
-          <category> 基础知识 </category>
+          <category> 随笔 </category>
           
           <category> Java </category>
+          
+          <category> 基础知识 </category>
           
       </categories>
       
@@ -303,9 +303,9 @@
             
             <tag> Java </tag>
             
-            <tag> 知识点 </tag>
-            
             <tag> SE </tag>
+            
+            <tag> 知识点 </tag>
             
         </tags>
       
